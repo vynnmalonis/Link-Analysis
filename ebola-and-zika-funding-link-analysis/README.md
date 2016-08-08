@@ -43,7 +43,7 @@ Original web version - [Mind Node](https://my.mindnode.com/13Gu7yTLsYzsziexgTYNs
 	* Zika
 		* Mosquitos
 			* Aedes Agypti
-				* Dengey
+				* Dengue
 				* Yellow fever
 			* Spraying to kill
 				* Oxitec
