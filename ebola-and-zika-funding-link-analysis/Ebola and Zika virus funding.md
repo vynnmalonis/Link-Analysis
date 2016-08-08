@@ -77,7 +77,7 @@
 
 - Aedes Agypti
 
-	- Dengey
+	- Dengue
 
 	- Yellow fever
 
